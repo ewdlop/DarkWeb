@@ -11,3 +11,5 @@ New functionality includes the ability to analyze dark web data and display the 
 positive prompts: A conceptual prototype of an operating system interface named 'OS 7,' designed for secure and anonymous dark web access. The interface includes a sleek, minimalistic design with a dark theme. Key features include a central dashboard showing network status for Tor and I2P, cryptocurrency wallet integration, a file system named 'EtherealFS,' and encrypted messaging app 'WhisperText.' The design emphasizes a futuristic aesthetic, with glowing icons and subtle animations. A warning system is displayed as a pop-up, alerting the user about potential malicious sites. The environment is professional and tech-savvy, focused on anonymity and security.
 
 negative prompts:
+
+![8a8b101a-e9c9-480f-9105-49ec53ef9989](https://github.com/user-attachments/assets/65f6b076-3867-485d-9214-e1a26b2cef36)
